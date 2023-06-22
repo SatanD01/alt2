@@ -110,3 +110,8 @@ legend {
     font-weight: normal;
     font-style: normal;
 }
+
+.links {
+    display: flex;
+    gap: 10px;
+}
